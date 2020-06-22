@@ -32,9 +32,9 @@ This Application Dependencies are:
 6. `git init`
 7. Login to your Heroku account: `heroku login`
 8. Create new heroku app: `heroku create -b https://github.com/heroku/heroku-buildpack-static.git --app <app_name>` 
-9. Create static.json file: `echo '{"root": "build/"}' > static.json
+9. Create static.json file: `echo '{"root": "build/"}' > static.json`
 10. `git add .` and `git commit -m <commit_message>`
 11. Push the files to heroku: `git push heroku master`
 
 ## Acknowledgements
-I'm storing model to Heroku using [this repo](https://github.com/mgonto/heroku-static-file-server). I saw the React.js deployment to Heroku [here](https://medium.com/@ikrisnaw/cara-deploy-aplikasi-react-js-ke-heroku-e1d1b13165c1)
+I'm storing model to Heroku using [this repo](https://github.com/mgonto/heroku-static-file-server). I saw the React.js deployment to Heroku tutorial [here](https://medium.com/@ikrisnaw/cara-deploy-aplikasi-react-js-ke-heroku-e1d1b13165c1)
