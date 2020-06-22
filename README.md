@@ -1,5 +1,5 @@
 # riceye-webapp
-Riceye is a Rice Detection Disease Application that use Machine Learning. This is the Web Application of Riceye, developed using React.js and deployed using [Heroku](https://www.heroku.com). The model is converted using Tensorflow.js library and stored on [this server](https://calm-sands-10024.herokuapp.com/model/). The details on model is on [this repo](https://github.com/hansels/bangkit-final-project/)
+Riceye is a Rice Detection Disease Application that use Machine Learning. This is the Web Application of Riceye, developed using React.js and deployed using [Heroku](https://www.heroku.com). The model is converted using Tensorflow.js library and stored on [this server](https://calm-harbor-72858.herokuapp.com/model/). The details on model is on [this repo](https://github.com/hansels/bangkit-final-project/)
 
 You can access it by visiting: https://riceye.herokuapp.com. Then upload your rice leaf photo and click "Predict!".
 
